@@ -8,26 +8,27 @@ This project presents a comprehensive Power BI dashboard for analyzing Blinkit's
 
 The dashboard focuses on the following primary KPIs:
 
-**Total Restaurant**: Overall restaurant in India (6,593)
+*Total Restaurant*: Overall restaurant in India (6,593)
 
-**Average Cost**: Average revenue per sale (1,103)
+*Average Cost*: Average revenue per sale (1,103)
 
-**Total Votes**: Total votes for different restaurant (7,87,337)
+*Total Votes*: Total votes for different restaurant (7,87,337)
 
-**Average Rating**: Average customer rating for items sold (4.088 out of 5)
+*Average Rating*: Average customer rating for items sold (4.088 out of 5)
 
 ****Features****
-**Filter City**: Allows users to filter data by Different cities in India.
 
-**Number of restaurant**: Visualizes number of restaurant present in India in different location of same franchise.
+*Filter City*: Allows users to filter data by Different cities in India.
 
-**Average Price**: Breaks down the average price of food with the cities.
+*Number of restaurant*: Visualizes number of restaurant present in India in different location of same franchise.
 
-**Average Rating**: average rating of all the cities with different restuarent.
+*Average Price*: Breaks down the average price of food with the cities.
 
-**Bubble Chart**: Top 10 restaurants are available in various cities.
+*Average Rating*: average rating of all the cities with different restuarent.
 
-**Number of Restaurant**: Number of restaurant available in different cities.
+*Bubble Chart*: Top 10 restaurants are available in various cities.
+
+*Number of Restaurant*: Number of restaurant available in different cities.
  
 ****Insights and Conclusions****
 
