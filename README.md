@@ -30,6 +30,7 @@ The dashboard focuses on the following primary KPIs:
 **Number of Restaurant**: Number of restaurant available in different cities.
 
 ****Insights and Conclusions****
+
 Strong overall restaurant in India 6,953.
 
 Most of customer are prefer subway, taco bell, spiceIt, barbeque Nation, The chocolate etc.
