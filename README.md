@@ -28,7 +28,7 @@ The dashboard focuses on the following primary KPIs:
 **Bubble Chart**: Top 10 restaurants are available in various cities.
 
 **Number of Restaurant**: Number of restaurant available in different cities.
-
+ 
 ****Insights and Conclusions****
 
 Strong overall restaurant in India 6,953.
